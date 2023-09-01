@@ -4,7 +4,7 @@ from joblib import load
 import os
 
 # Cargar el modelo
-modelo = load("dtl.joblib")
+modelo = load("dt1.joblib")
 
 
 # Generar el servidor(Back-End)
